@@ -1,19 +1,16 @@
 # House-Price-Prediction
 Here's a sample `README.md` file for a **House Price Prediction** project. This version assumes you’ve built a machine learning model (e.g., using Python, Scikit-learn, etc.), but I can tailor it further based on your tools, language, or framework.
 
----
-
 # 🏡 House Price Prediction
 
 Predict house prices based on various features such as area, location, number of rooms, and more using machine learning.
 
----
 
 ## 📌 Project Overview
 
 This project aims to predict the prices of houses using supervised machine learning techniques. The model is trained on historical housing data and makes predictions based on features like size, location, number of bedrooms/bathrooms, and other key factors.
 
----
+
 
 ## 📁 Project Structure
 
@@ -44,7 +41,7 @@ house-price-prediction/
 └── .gitignore
 ```
 
----
+
 
 ## 📊 Dataset
 
@@ -61,14 +58,14 @@ house-price-prediction/
 
 * **Target**: `Price`
 
----
+
 
 ## 🧠 Machine Learning Model
 
 * **Model Used**: Linear Regression / Random Forest / XGBoost (specify what you used)
 * **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 
----
+
 
 ## 🔧 Installation
 
@@ -101,7 +98,7 @@ cd app
 streamlit run app.py
 ```
 
----
+
 
 ## 📈 Results
 
@@ -111,7 +108,7 @@ streamlit run app.py
 
 > *Note: Replace with actual results once you evaluate your model.*
 
----
+
 
 ## 🛠️ Future Work
 
@@ -120,14 +117,14 @@ streamlit run app.py
 * Deploy using Flask/Streamlit and host on Heroku or AWS
 * Add unit tests and CI/CD pipeline
 
----
+
 
 ## 🙌 Acknowledgments
 
 * Dataset by \[Kaggle/UCI/specific provider]
 * Inspired by \[any relevant projects]
 
----
+
 
 ## 📄 License
 
